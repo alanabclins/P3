@@ -1,4 +1,4 @@
-package Empregado.ClassEmprego;
+package ATV12;
 public class Empregado {
     protected String nome, sobrenome ,cpf;
 

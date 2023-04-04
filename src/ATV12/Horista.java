@@ -1,4 +1,4 @@
-package Empregado.ClassEmprego;
+package ATV12;
 
 public class Horista {
     protected double precoHora;

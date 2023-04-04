@@ -1,11 +1,11 @@
-package Codes;
+package ATV8;
 public class SistemaBanco {
-    private int agencia;
-    private int numDaConta;
-    private String nome;
-    private int cpf;
-    private String endereco;
-    private double saldo;
+    protected int agencia;
+    protected int numDaConta;
+    protected String nome;
+    protected int cpf;
+    protected String endereco;
+    protected double saldo;
     
     public double depositar (double value){
         this.saldo= saldo +value;

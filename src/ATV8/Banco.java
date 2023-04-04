@@ -1,5 +1,5 @@
 
-package Codes;
+package ATV8;
 
 import java.util.Scanner;
 

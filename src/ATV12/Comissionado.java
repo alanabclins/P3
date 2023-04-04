@@ -1,4 +1,4 @@
-package Empregado.ClassEmprego;
+package ATV12;
 
 public class Comissionado {
     protected double totalVenda;

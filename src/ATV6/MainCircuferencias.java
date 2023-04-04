@@ -1,4 +1,4 @@
-package Coordenadas;
+package ATV6;
 
 import java.util.Scanner;
 
